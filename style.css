@@ -6,6 +6,9 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   background-color: white;
+  width: 700px;
+  margin: auto;
+  font-family: "Helvetica";
 }
 
 /* ID selector to select the element with id 'main-header' */
